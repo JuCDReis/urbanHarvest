@@ -1,0 +1,212 @@
+body {
+  background-color: #f5fed9;
+  font-family: "Lora", serif;
+  margin: 0em;
+}
+
+h1 {
+  font-family: "Poppins", serif;
+}
+
+h2 {
+  font-family: "Poppins", serif;
+}
+
+header {
+  background-color: #2c6b2f;
+  padding: 1em 2em 0em 2em;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+header img {
+  width: 20%;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+}
+
+.nav-item {
+  padding: 1em;
+  margin: 0em 1em;
+  border-bottom: #2c6b2f solid 0.2em;
+  font-size: 1.2em;
+}
+.nav-item a {
+  text-decoration: none;
+  color: #f5fed9;
+}
+
+.nav-item:hover {
+  border-bottom: #f51d00 solid 0.2em;
+}
+
+.headline {
+  display: flex;
+  justify-content: space-around;
+  margin: 2em;
+  padding: 2em;
+}
+.headline img {
+  width: 15vw;
+}
+
+.headline-left {
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  border-left: solid 0.5em #f51d00;
+  padding: 2em;
+}
+.headline-left h1 {
+  color: #2c6b2f;
+  font-size: 4em;
+  line-height: 1.3em;
+  margin: 0em;
+  font-weight: 800;
+}
+.headline-left h3 {
+  font-weight: normal;
+  font-family: "Lora", serif;
+  font-size: calc(1rem + 0.6vw);
+  margin: 1em 0em;
+}
+
+.services {
+  padding: 1em 2em;
+  background-color: #2c6b2f;
+  color: #f5fed9;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.services img {
+  width: 20vw;
+}
+
+.advantages {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  width: 80vw;
+}
+
+.ad {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  text-align: left;
+  margin: 2em;
+}
+.ad h2 {
+  font-size: 2em;
+  line-height: 1.1em;
+  margin: 0.8em 0em;
+}
+.ad strong {
+  text-transform: uppercase;
+  color: #d1d1d1;
+  font-family: "Roboto", serif;
+}
+.ad p {
+  margin: 0%;
+}
+
+.feedback {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.feedback h1 {
+  color: #f51d00;
+  margin: 2em;
+}
+
+.proof-cards {
+  width: 50vw;
+  margin-bottom: 2em;
+}
+
+.feedback-card {
+  background-color: #2c6b2f;
+  color: #f5fed9;
+  padding: 10% 20%;
+  border-radius: 1em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.feedback-card p {
+  font-size: 1.1em;
+}
+
+.about-us {
+  display: flex;
+  margin: 4em 0em;
+}
+.about-us img {
+  width: 40%;
+}
+
+.quem-somos {
+  width: 50vw;
+  background-color: #f51d00;
+  color: #f5fed9;
+  padding: 6em 4em;
+}
+.quem-somos p {
+  font-size: 1.2em;
+  font-family: "Lora", serif;
+}
+
+.cta {
+  background-color: #2c6b2f;
+  color: #f5fed9;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 4em;
+}
+.cta p {
+  font-family: "Lora", serif;
+  font-size: 1.6em;
+  width: 70vw;
+  margin: 1em 0em;
+  text-align: center;
+}
+
+.titulo-cta {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0.5em;
+  font-size: 3em;
+}
+.titulo-cta img {
+  margin-left: 1em;
+  width: 10%;
+}
+
+.btn1 {
+  background-color: #f51d00;
+  color: #f5fed9;
+  border: 0em;
+  border-radius: 0.5em;
+  padding: 1em 3em;
+  font-family: "Roboto", serif;
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
+footer {
+  background-color: #2c6b2f;
+  color: #d1d1d1;
+  margin: 4em;
+  border-top: #f5fed9 solid 0.5em;
+}
+
+/*# sourceMappingURL=style.css.map */
