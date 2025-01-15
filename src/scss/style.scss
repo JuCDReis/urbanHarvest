@@ -44,7 +44,7 @@ nav{
   }
 }
 .nav-item:hover{
-  border-bottom: $highlights solid 0.2em;
+  border-bottom: $secondary solid 0.2em;
 }
 
 .headline{
@@ -148,9 +148,10 @@ nav{
   }
 }
 
+
 .about-us{
   display: flex;
-  margin: 4em 0em;
+  margin-top: 4em;
   img{
     width: 40%;
   }
@@ -174,6 +175,7 @@ nav{
   flex-direction: column;
   align-items: center;
   padding: 4em;
+  padding-bottom:0em ;
   p{
     font-family: "Lora", serif;
     font-size: 1.6em;
@@ -187,7 +189,7 @@ nav{
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 0.5em;
+  margin: 0em 0.5em;
   font-size: 3em;
   img{
     margin-left: 1em;
@@ -205,5 +207,72 @@ nav{
   font-size: 1.1em;
   font-weight: bold;
 }
+.btn2{
+  background-color: $highlights;
+  color: $light;
+  border: 0em;
+  border-radius: 0.5em;
+  padding: 1em 3em;
+  font-family: "Roboto", serif;
+  font-size: 1.1em;
+  font-weight: bold;
+  margin-bottom: 15vh;
+}
+.cta::after{
+  content: "";
+  display: block;
+  border-top: #f5fed9 solid 0.3em;
+  width: 85vw;
+  margin: auto;
+  padding: 0.5em;
+  text-align: center;
+}
 
+footer{
+  background-color: $primary;
+  color: $light;
+  padding: 1em;
+  display: flex;
+  align-items: center;
+}
 
+.menus{
+  display: flex;
+  align-items: center;  
+  justify-content: center;
+  margin: 2em 0.5em;
+}
+
+.menu{
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  align-items: start;
+  margin:1em;
+  margin-top: 1em;
+  
+  a{
+    text-decoration: none;
+    color: $info;
+  }
+}
+
+.m1{
+  border-right: $light solid 0.3em;
+  padding: 1em;
+  img{
+    width: 30vw;
+  }
+  
+}
+.contato-footer{
+  width: 100%;
+  font-size: 1.2em;
+  display: flex;
+  align-items: start;
+  margin:1em 0em;
+
+  img{
+    margin-right: 15px;
+  }
+}
