@@ -6,7 +6,7 @@ Este projeto foi desenvolvido como um exemplo **fictício** para demonstrar o po
 
 A UrbanHarvest é um conceito fictício que representa uma empresa inovadora no ramo de hortas verticais automatizadas, projetada para inspirar ideias reais.  
 
-Se você gostou do que viu e quer criar algo semelhante para sua empresa, entre em contato conosco e transforme seu negócio com uma landing page de impacto!  
+Se você gostou do que viu e quer criar algo semelhante para sua empresa, entre em contato comigo e transforme seu negócio com uma landing page de impacto!  
 
 ---
 
@@ -47,9 +47,9 @@ Se você gostou do que viu e quer criar algo semelhante para sua empresa, entre 
 
 Gostou deste exemplo? Imagine uma landing page projetada exclusivamente para destacar o seu produto ou serviço!  
 
-**Entre em contato conosco para criar o site ideal para o seu negócio:**  
+**Entre em contato comigo para criar o site ideal para o seu negócio:**  
 - **E-mail:** julia.reisfreela@gmail.com  
 - **Telefone:** +55 15 98807-5404  
 
-Estamos prontos para transformar suas ideias em realidade e ajudar a sua marca a crescer online! 🚀  
+Estou ansiosa para transformar suas ideias em realidade e ajudar a sua marca a crescer online! 🚀  
 
