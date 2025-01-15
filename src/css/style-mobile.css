@@ -1,0 +1,111 @@
+@media screen and (max-width: 767px) {
+  body {
+    font-size: 0.8em;
+  }
+  header > img {
+    width: 60%;
+  }
+  nav {
+    display: none;
+  }
+  .headline {
+    display: block;
+    padding: 0em;
+  }
+  .headline img {
+    display: none;
+  }
+  .headline-left {
+    border-left: solid 0.3em #f51d00;
+    padding: 0em 1em;
+    width: 100%;
+    font-size: 0.8em;
+  }
+  .headline-left h1 {
+    font-size: 2em;
+  }
+  .headline-left h3 {
+    font-size: 1.2em;
+  }
+  .services img {
+    width: 70vw;
+  }
+  .advantages {
+    display: grid;
+    grid-template-columns: 1fr;
+    width: 90vw;
+    border-left: #f51d00 solid 0.3em;
+  }
+  .ad {
+    font-size: 0.8em;
+  }
+  .ad h2 {
+    margin: 0.5em 0em;
+  }
+  .feedback h1 {
+    font-size: 1.4em;
+    margin: 1em;
+  }
+  .proof-cards {
+    width: 90vw;
+  }
+  .feedback-card {
+    padding: 10%;
+    font-size: 0.8em;
+  }
+  .feedback-card h2 {
+    font-size: 1.2em;
+  }
+  .about-us {
+    margin-top: 0em;
+  }
+  .about-us img {
+    display: none;
+  }
+  .quem-somos {
+    width: 100%;
+    padding: 2em;
+  }
+  .quem-somos p {
+    font-size: 1em;
+  }
+  .titulo-cta {
+    font-size: 1.2em;
+    text-align: center;
+    margin: 0em 0.5em;
+  }
+  .titulo-cta img {
+    margin-left: 0em;
+    width: 25%;
+  }
+  .cta {
+    padding: 2em 0.5em;
+  }
+  .cta p {
+    font-size: 1em;
+  }
+  .btn2 {
+    font-size: 0.9em;
+    padding: 0.75em 2em;
+    margin-bottom: 5vh;
+  }
+  footer {
+    display: flex;
+    flex-direction: column;
+    margin: 0em;
+    padding: 0em;
+  }
+  .menus {
+    flex-direction: column;
+  }
+  .menus a > img {
+    width: 90%;
+    margin: 1em;
+  }
+  .menu {
+    margin: 1em;
+    line-height: 30px;
+  }
+}
+
+/*# sourceMappingURL=style-mobile.css.map */
