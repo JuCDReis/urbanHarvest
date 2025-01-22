@@ -51,5 +51,5 @@ Gostou deste exemplo? Imagine uma landing page projetada exclusivamente para des
 - **E-mail:** julia.reisfreela@gmail.com  
 - **Telefone:** +55 15 98807-5404  
 
-Estou ansiosa para transformar suas ideias em realidade e ajudar a sua marca a crescer online! 🚀  
+Estou ansiosa para transformar suas ideias em realidade e ajudar a sua marca a crescer online!   
 
