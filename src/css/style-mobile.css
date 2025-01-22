@@ -34,7 +34,7 @@
     display: grid;
     grid-template-columns: 1fr;
     width: 90vw;
-    border-left: #f51d00 solid 0.3em;
+    border-left: #a8d5ba solid 0.3em;
   }
   .ad {
     font-size: 0.8em;
